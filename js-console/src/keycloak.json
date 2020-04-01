@@ -1,5 +1,5 @@
 {
   "realm" : "demo",
-  "auth-server-url" : "http://localhost:8080/auth",
+  "auth-server-url" : "https://keycloak-common-infra.apps.cloudpass1.apap.com.do/auth",
   "resource" : "js-console"
 }
